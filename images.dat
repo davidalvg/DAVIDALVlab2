@@ -1,0 +1,35 @@
+# TA Images.dat
+# You should only edit the thresholds 
+# in
+# this file.
+#----------------------------------------------------------
+large_a.jpg 24 0.279 1.0 1.0 0.145 0.247 0.267
+large_b.jpg 0 0.251 1.0 1.0 0.151 0.294 0.247 
+large_c.jpg 0 0.268 1.0 1.0 0.145 0.333 0.169
+large_d.jpg 72 0.24 1.0 1.0 0.156 0.290 0.286
+large_e.jpg 0 0.274 1.0 1.0 0.145 0.314 0.141
+small_a.jpg 24 0.385 1.0 1.0 0.14 0.384 0.478
+small_b.jpg 0 0.212 1.0 1.0 0.14 0.376 0.267
+small_c.jpg 0 0.201 1.0 1.0 0.14 0.322 0.38
+small_d.jpg 84 0.184 1.0 1.0 0.14 0.341 0.173
+small_e.jpg 0 0.19 1.0 1.0 0.151 0.459 0.137
+rotated_large_a.jpg 24 0.296 1.0 1.0 0.145 0.314 0.416
+rotated_large_b.jpg 0 0.196 1.0 1.0 0.134 0.38 0.353
+rotated_large_c.jpg 0 0.19 1.0 1.0 0.151 0.353 0.357
+rotated_large_d.jpg 72 0.212 1.0 1.0 0.151 0.318 0.322
+rotated_large_e.jpg 0 0.184 1.0 1.0 0.134 0.38 0.4
+rotated_small_a.jpg 24 0.196 1.0 1.0 0.145 0.38 0.384
+rotated_small_b.jpg 0 0.184 1.0 1.0 0.14 0.376 0.231
+rotated_small_c.jpg 0 0.201 1.0 1.0 0.151 0.361 0.153
+rotated_small_d.jpg 84 0.218 1.0 1.0 0.134 0.349 0.298
+rotated_small_e.jpg 0 0.19 1.0 1.0 0.134 0.322 0.216
+noise_large_a.jpg 24 0.223 1.0 1.0 0.134 0.455 0.059
+noise_large_b.jpg 0 0.223 1.0 1.0 0.134 0.49 0.176
+noise_large_c.jpg 0 0.196 1.0 1.0 0.128 0.443 0.302
+noise_large_d.jpg 72 0.223 1.0 1.0 0.134 0.463 0.278
+noise_large_e.jpg 0 0.201 1.0 1.0 0.145 0.376 0.286
+noise_small_a.jpg 24 0.212 1.0 1.0 0.14 0.463 0.345
+noise_small_b.jpg 0 0.335 1.0 1.0 0.14 0.494 0.263
+noise_small_c.jpg 0 0.229 1.0 1.0 0.128 0.525 0.369
+noise_small_d.jpg 84 0.201 1.0 1.0 0.14 0.459 0.475
+noise_small_e.jpg 0 0.223 1.0 1.0 0.145 0.376 0.302
